@@ -23,7 +23,7 @@ bash git clone https://github.com/TON_USERNAME/crud-express-mysql.git
 
 #2. Installer les dépendances
 
-bash npm install 
+ npm install 
 
 #3. Configurer MySQL
 
@@ -41,7 +41,7 @@ node server.js
 
 Le serveur démarre sur :
 
-bash http://localhost:3000 
+ http://localhost:3000 
 
  #Routes API
 
