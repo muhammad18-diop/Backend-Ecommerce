@@ -46,8 +46,11 @@ Le serveur démarre sur :
  #Routes API
 
  GET  /produits  Afficher tous les produits 
+ 
  POST  /produits  Ajouter un produit 
+ 
  PUT  /produits/:id  Modifier un produit 
+ 
 DELETE  /produits/:id  Supprimer un produit 
 
 
